@@ -1,7 +1,9 @@
-## Murphy says "Welcome to GitHub Pages!"
+## SQL Portfolio
+
 CRM Data Migration Project
 
-Project entailed migrating data from Onyx CRM databases to MS Dynamics CRM databases while doing data manipulation and cleanup. 
+I served as the team lead on a fourteen-month project that entailed migrating data from Onyx CRM SQL databases to MS Dynamics CRM SQL databases. Tasks included data manipulation and cleanup. 
+ 
 
 
 You can use the [editor on GitHub](https://github.com/cbmurph510/Murphy.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
