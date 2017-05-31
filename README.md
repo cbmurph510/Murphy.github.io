@@ -15,7 +15,25 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-Murphy_SQL_Portfolio/dbo.Contact_table.sql
+USE [OnyxToMSCRM_STAGE]
+3	GO
+4	
+5	SET ANSI_NULLS ON
+6	GO
+7	
+8	SET QUOTED_IDENTIFIER ON
+9	GO
+10	IF  EXISTS (SELECT * FROM sys.objects WHERE OBJECT_ID = OBJECT_ID(N'dbo.Contact') AND type in (N'U'))
+11	BEGIN
+12		DROP TABLE dbo.Contact
+13	END
+14	GO
+15	
+16	CREATE TABLE [dbo].[Contact]
+17	(
+18		[ContactId] [uniqueidentifier] NOT NULL DEFAULT(NEWID()),
+19		[DefaultPriceLevelId] [uniqueidentifier] NULL,
+20		[CustomerSizeCode] [int] NULL,
 
 # Header 1
 ## Header 2
