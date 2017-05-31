@@ -8,7 +8,7 @@ You can use the [editor on GitHub](https://github.com/cbmurph510/Murphy.github.i
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-(https://github.com/cbmurph510/Murphy_SQL_Portfolio/blob/master/dbo.Contact_table.sql)
+[Contact_table.sql](https://github.com/cbmurph510/Murphy_SQL_Portfolio/blob/master/dbo.Contact_table.sql)
 
 
 ### Markdown
