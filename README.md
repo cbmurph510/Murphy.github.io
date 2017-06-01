@@ -35,7 +35,17 @@ The files below are examples of Data Integrity related SQL scripts and stored pr
 | -------------------    | ------------- |
 | SSRS report Stored Procedure | [mtb_rpt_IndivUnlinkedCompanies.sql](https://github.com/cbmurph510/DIG/blob/master/dbo.mtb_rpt_IndivUnlinkedCompanies.sql)                 |
 | Data Integrity Script |  [Pending Account Cleanup Queries.sql](https://github.com/cbmurph510/DIG/blob/master/Pending%20Acct%20Cleanup%20Queries.sql)               |
- 
+
+<BR/>
+### Data Retrieval Script
+
+Introduction: 
+This is an example of one of the data retrieval scripts I have authored that returns records that meet specific criteria to send bulk email communications to target audiences. 
+
+| Purpose          | File Link |
+| -------------------    | ------------- |
+| Product Release Queries | [Release Queries.sql](https://github.com/cbmurph510/DIG/blob/master/Release%20Queries.sql)          
+
 
 
 
