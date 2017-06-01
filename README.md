@@ -1,6 +1,6 @@
 ## SQL Portfolio
 
-CRM Data Migration Project
+**CRM Data Migration Project**
 
 Introduction: 
 I served as the team lead on a fourteen-month project that entailed migrating data from existing Onyx CRM SQL databases to a new install on premise of MS Dynamics CRM SQL databases. Tasks included data manipulation and cleanup per business analysis.  
@@ -8,7 +8,7 @@ I served as the team lead on a fourteen-month project that entailed migrating da
 ```markdown
 Project Samples:
 
-Staging table creation
+Staging table creation - [Contact_table.sql](https://github.com/cbmurph510/Murphy_SQL_Portfolio/blob/master/dbo.Contact_table.sql)
 Data log table creation 
 Stored Procedure to manipulate, cleanse and import data into Contact staging table
 Post go live Contact record update  
@@ -19,7 +19,7 @@ You can use the [editor on GitHub](https://github.com/cbmurph510/Murphy.github.i
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-[Contact_table.sql](https://github.com/cbmurph510/Murphy_SQL_Portfolio/blob/master/dbo.Contact_table.sql)
+
 
 
 ### Markdown
