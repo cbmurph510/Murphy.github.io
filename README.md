@@ -37,6 +37,7 @@ The files below are examples of Data Integrity related SQL scripts and stored pr
 | Data Integrity Script |  [Pending Account Cleanup Queries.sql](https://github.com/cbmurph510/DIG/blob/master/Pending%20Acct%20Cleanup%20Queries.sql)               |
 
 <BR/>
+
 ### Data Retrieval Script
 
 Introduction: 
