@@ -2,8 +2,17 @@
 
 CRM Data Migration Project
 
-I served as the team lead on a fourteen-month project that entailed migrating data from Onyx CRM SQL databases to MS Dynamics CRM SQL databases. Tasks included data manipulation and cleanup. 
- 
+Introduction: 
+I served as the team lead on a fourteen-month project that entailed migrating data from existing Onyx CRM SQL databases to a new install on premise of MS Dynamics CRM SQL databases. Tasks included data manipulation and cleanup per business analysis.  
+
+```markdown
+Project Samples:
+
+Staging table creation
+Data log table creation 
+Stored Procedure to manipulate, cleanse and import data into Contact staging table
+Post go live Contact record update  
+
 
 
 You can use the [editor on GitHub](https://github.com/cbmurph510/Murphy.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
@@ -18,27 +27,6 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
-Syntax highlighted code block
-
-USE [OnyxToMSCRM_STAGE]
-3	GO
-4	
-5	SET ANSI_NULLS ON
-6	GO
-7	
-8	SET QUOTED_IDENTIFIER ON
-9	GO
-10	IF  EXISTS (SELECT * FROM sys.objects WHERE OBJECT_ID = OBJECT_ID(N'dbo.Contact') AND type in (N'U'))
-11	BEGIN
-12		DROP TABLE dbo.Contact
-13	END
-14	GO
-15	
-16	CREATE TABLE [dbo].[Contact]
-17	(
-18		[ContactId] [uniqueidentifier] NOT NULL DEFAULT(NEWID()),
-19		[DefaultPriceLevelId] [uniqueidentifier] NULL,
-20		[CustomerSizeCode] [int] NULL,
 
 # Header 1
 ## Header 2
