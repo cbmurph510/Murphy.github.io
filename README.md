@@ -8,10 +8,10 @@ I served as the team lead on a fourteen-month project that entailed migrating da
 
 Project Samples:
 
-Staging table creation - [Contact_table.sql](https://github.com/cbmurph510/Murphy_SQL_Portfolio/blob/master/dbo.Contact_table.sql) <br />
-Data log table creation 
-Stored Procedure to manipulate, cleanse and import data into Contact staging table
-Post go live Contact record update  
+Staging table creation - [Contact_table.sql](https://github.com/cbmurph510/Data-Migration/blob/master/dbo.Contact_table.sql) <br />
+Data log table creation <br />
+Stored Procedure to manipulate, cleanse and import data into Contact staging table - [Contact Stored Procedure.sql] https://github.com/cbmurph510/Data-Migration/blob/master/dbo.Contact.sql<br />
+Post go live Contact record update <br />
 
 
 
