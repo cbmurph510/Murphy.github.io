@@ -9,6 +9,7 @@ I served as the team lead on a fourteen-month project that entailed migrating da
 Project Samples:
 
 Staging table creation - [Contact_table.sql](https://github.com/cbmurph510/Murphy_SQL_Portfolio/blob/master/dbo.Contact_table.sql)
+
 Data log table creation 
 Stored Procedure to manipulate, cleanse and import data into Contact staging table
 Post go live Contact record update  
