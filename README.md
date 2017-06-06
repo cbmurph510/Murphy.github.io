@@ -23,7 +23,7 @@ I served as the team lead on a fourteen-month project that entailed migrating da
 Introduction: 
 The files below are examples of Data Integrity related SQL scripts and stored procedures I have authored and they represent the following:
 
-**Data Integrity Stored Procedure used by SSRS report** - The report "Individuals with Unlinked Comapnies" was used by sales support staff to create lists of Individuals who were not linked to a Company so they could evaluate and perform manual cleanup if necessary.
+**Data Integrity Stored Procedure used by SSRS report** - The report "Individuals with Unlinked Companies" was used by sales support staff to create lists of Individuals who were not linked to a Company so they could evaluate and perform manual cleanup if necessary.
 
 **Data Integrity Script** –Used to update a staging table with records from the Contacts table that had invalid data in the MTB_PendingAccountName field.  The records in the staging table were then processed by an in-house .net import utility and make the necessary updates. 
 
