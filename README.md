@@ -11,9 +11,7 @@ I served as the team lead on a fourteen-month project that entailed migrating da
 | Purpose          | File Link |
 | -------------------    | ------------- |
 | Staging table creation | [Contact_table.sql](https://github.com/cbmurph510/Data-Migration/blob/master/dbo.Contact_table.sql)  |
-| Data Migration log table creation  | [DataMigrationLog_RowStart.sql](https://github.com/cbmurph510/Data-Migration/blob/master/dbo.DataMigrationLog_RowStart.sql)  |
-|   | [DataMigrationLog_RowStop.sql](https://github.com/cbmurph510/Data-Migration/blob/master/dbo.DataMigrationLog_RowStop.sql)  |
-|   | [DataMigrationLog_RowError.sql](https://github.com/cbmurph510/Data-Migration/blob/master/dbo.DataMigrationLog_RowError.sql)  |
+| Data Migration log table creation | [DataMigrationLog_RowError.sql](https://github.com/cbmurph510/Data-Migration/blob/master/dbo.DataMigrationLog_RowError.sql)  |
 | Stored Procedure to manipulate, cleanse and import data into Contact staging table  | [Contact Stored Procedure.sql](https://github.com/cbmurph510/Data-Migration/blob/master/dbo.Contact.sql)  |
 | Post go live Contact record update | [Maximizer Update Stored Procedure.sql](https://github.com/cbmurph510/Data-Migration/blob/master/dbo.Maximizer_Update.sql)  |
 
