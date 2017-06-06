@@ -52,13 +52,13 @@ This is an example of one of the data retrieval scripts I have authored that ret
 ### Data Update Scripts
 
 Introduction: 
-This is an example of one of the data retrieval scripts I have authored that returns records that meet specific criteria to send bulk email communications to target audiences. 
+This is an example of a few of the data update scripts and stored procedures I have written that make various record updates. 
 
 | Purpose          | File Link |
 | -------------------    | ------------- |
-| Annual Recurring Opportunities | [AnnualRecurringOpportunities_Import.sql](https://github.com/cbmurph510/DIG/blob/master/Release%20Queries.sql)   
-| Update Subscription Status | [mtb_UpdSubscriptionStatusToReady.sql](https://github.com/cbmurph510/DIG/blob/master/Release%20Queries.sql) 
-| Free Upgrade SUL   | [FreeUpgradeSUL_Import.sql](https://github.com/cbmurph510/DIG/blob/master/Release%20Queries.sql)   
+| Annual Recurring Opportunities | [AnnualRecurringOpportunities_Import.sql](Data-Updates/AnnualRecurringOpportunities_Import.sql)   
+| Update Subscription Status | [mtb_UpdSubscriptionStatusToReady.sql](Data-Updates/mtb_UpdSubscriptionStatusToReady.sql) 
+| Free Upgrade SUL   | [FreeUpgradeSUL_Import.sql](Data-Updates/FreeUpgradeSUL_Import.sql)   
 
 
 
