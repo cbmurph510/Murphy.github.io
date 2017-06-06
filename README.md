@@ -56,9 +56,9 @@ This is an example of a few of the data update scripts and stored procedures I h
 
 | Purpose          | File Link |
 | -------------------    | ------------- |
-| Annual Recurring Opportunities | [AnnualRecurringOpportunities_Import.sql](https://github.com/cbmurph510/DIG/blob/master/Data-Updates/AnnualRecurringOpportunities_Import.sql)   
-| Update Subscription Status | [mtb_UpdSubscriptionStatusToReady.sql](https://github.com/cbmurph510/DIG/blob/master/Data-Updates/mtb_UpdSubscriptionStatusToReady.sql) 
-| Free Upgrade SUL   | [FreeUpgradeSUL_Import.sql](https://github.com/cbmurph510/DIG/blob/master/Data-Updates/FreeUpgradeSUL_Import.sql)   
+| Annual Recurring Opportunities | [AnnualRecurringOpportunities_Import.sql](https://github.com/cbmurph510/Data-Updates/blob/master/AnnualRecurringOpportunities_Import.sql)   
+| Update Subscription Status | [mtb_UpdSubscriptionStatusToReady.sql](https://github.com/cbmurph510/Data-Updates/blob/master/mtb_UpdSubscriptionStatusToReady.sql) 
+| Free Upgrade SUL   | [FreeUpgradeSUL_Import.sql](https://github.com/cbmurph510/Data-Updates/blob/master/FreeUpgradeSUL_Import.sql)   
 
 
 
