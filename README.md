@@ -47,7 +47,18 @@ This is an example of one of the data retrieval scripts I have authored that ret
 | -------------------    | ------------- |
 | Product Release Queries | [Release Queries.sql](https://github.com/cbmurph510/DIG/blob/master/Release%20Queries.sql)          
 
+<BR/>
 
+### Data Update Scripts
+
+Introduction: 
+This is an example of one of the data retrieval scripts I have authored that returns records that meet specific criteria to send bulk email communications to target audiences. 
+
+| Purpose          | File Link |
+| -------------------    | ------------- |
+| Annual Recurring Opportunities | [AnnualRecurringOpportunities_Import.sql](https://github.com/cbmurph510/DIG/blob/master/Release%20Queries.sql)   
+| Update Subscription Status | [mtb_UpdSubscriptionStatusToReady.sql](https://github.com/cbmurph510/DIG/blob/master/Release%20Queries.sql) 
+| Free Upgrade SUL   | [FreeUpgradeSUL_Import.sql](https://github.com/cbmurph510/DIG/blob/master/Release%20Queries.sql)   
 
 
 
